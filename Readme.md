@@ -2,7 +2,7 @@
 
 Este é um repositório teste para ensinar como Git funciona.i
 
-Saiba mais no link:
+Saiba mais no link: ( Sério não tem link mesmo)
 
 Gostou? Mande um cafézinho.
 
